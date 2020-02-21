@@ -1,0 +1,20 @@
+{
+  "name": "tailwindcss-starter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "Estevan Jantsk",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-alpha.3.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "postcss-import": "^12.0.1",
+    "postcss-nested": "^4.2.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
