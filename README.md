@@ -19,3 +19,5 @@ A basic front-end starter template using the Parcel@next bundler.
 
 - tailwindcss.css with base, components and utilities already imported.
 - http://localhost:1234/ and http://localhost:1234/about.html working by default :).
+
+[Running the project](https://imgur.com/KGv2uGQ)
