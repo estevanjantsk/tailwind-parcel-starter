@@ -9,7 +9,7 @@
   "author": "Estevan Jantsk",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.0.0-alpha.3.2"
+    "parcel": "^2.8.2"
   },
   "dependencies": {
     "autoprefixer": "^9.7.4",
